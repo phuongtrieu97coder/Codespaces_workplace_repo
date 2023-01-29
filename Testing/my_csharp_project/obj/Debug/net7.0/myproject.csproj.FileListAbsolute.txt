@@ -1,0 +1,15 @@
+/workspaces/haikus-for-codespaces/Testing/myproject/bin/Debug/net7.0/myproject
+/workspaces/haikus-for-codespaces/Testing/myproject/bin/Debug/net7.0/myproject.deps.json
+/workspaces/haikus-for-codespaces/Testing/myproject/bin/Debug/net7.0/myproject.runtimeconfig.json
+/workspaces/haikus-for-codespaces/Testing/myproject/bin/Debug/net7.0/myproject.dll
+/workspaces/haikus-for-codespaces/Testing/myproject/bin/Debug/net7.0/myproject.pdb
+/workspaces/haikus-for-codespaces/Testing/myproject/obj/Debug/net7.0/myproject.csproj.AssemblyReference.cache
+/workspaces/haikus-for-codespaces/Testing/myproject/obj/Debug/net7.0/myproject.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/haikus-for-codespaces/Testing/myproject/obj/Debug/net7.0/myproject.AssemblyInfoInputs.cache
+/workspaces/haikus-for-codespaces/Testing/myproject/obj/Debug/net7.0/myproject.AssemblyInfo.cs
+/workspaces/haikus-for-codespaces/Testing/myproject/obj/Debug/net7.0/myproject.csproj.CoreCompileInputs.cache
+/workspaces/haikus-for-codespaces/Testing/myproject/obj/Debug/net7.0/myproject.dll
+/workspaces/haikus-for-codespaces/Testing/myproject/obj/Debug/net7.0/refint/myproject.dll
+/workspaces/haikus-for-codespaces/Testing/myproject/obj/Debug/net7.0/myproject.pdb
+/workspaces/haikus-for-codespaces/Testing/myproject/obj/Debug/net7.0/myproject.genruntimeconfig.cache
+/workspaces/haikus-for-codespaces/Testing/myproject/obj/Debug/net7.0/ref/myproject.dll
